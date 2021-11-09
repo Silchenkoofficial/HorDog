@@ -1,0 +1,247 @@
+@font-face {
+  font-family: "HorDogIcons";
+  src: url("./HorDogIcons.eot?oa7c07");
+  src: url("./HorDogIcons.eot?oa7c07#iefix") format("embedded-opentype"),
+    url("./HorDogIcons.ttf?oa7c07") format("truetype"),
+    url("./HorDogIcons.woff?oa7c07") format("woff"),
+    url("./HorDogIcons.svg?oa7c07#HorDogIcons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "HorDogIcons" !important;
+  speak: never;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favorites-fill:before {
+  content: "\e900";
+}
+.icon-favorites:before {
+  content: "\e901";
+}
+.icon-attention:before {
+  content: "\e902";
+}
+.icon-attention-line:before {
+  content: "\e903";
+}
+.icon-box:before {
+  content: "\e904";
+}
+.icon-boxes:before {
+  content: "\e905";
+}
+.icon-box-open:before {
+  content: "\e906";
+}
+.icon-calendar:before {
+  content: "\e907";
+}
+.icon-card:before {
+  content: "\e908";
+}
+.icon-cart:before {
+  content: "\e909";
+}
+.icon-cart-fill:before {
+  content: "\e90a";
+}
+.icon-catalog:before {
+  content: "\e90b";
+}
+.icon-catalog-fill:before {
+  content: "\e90c";
+}
+.icon-close:before {
+  content: "\e90d";
+}
+.icon-close-input .path1:before {
+  content: "\e90e";
+  color: rgb(26, 26, 26);
+}
+.icon-close-input .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.icon-comments:before {
+  content: "\e910";
+}
+.icon-down-arrow:before {
+  content: "\e911";
+}
+.icon-filter:before {
+  content: "\e912";
+}
+.icon-gift:before {
+  content: "\e913";
+}
+.icon-globe:before {
+  content: "\e914";
+}
+.icon-gps:before {
+  content: "\e915";
+}
+.icon-home:before {
+  content: "\e916";
+}
+.icon-home-fill:before {
+  content: "\e917";
+}
+.icon-info:before {
+  content: "\e918";
+}
+.icon-left-arrow:before {
+  content: "\e919";
+}
+.icon-list:before {
+  content: "\e91a";
+}
+.icon-location:before {
+  content: "\e91b";
+}
+.icon-mail:before {
+  content: "\e91c";
+}
+.icon-map:before {
+  content: "\e91d";
+}
+.icon-menu:before {
+  content: "\e91e";
+}
+.icon-menu-dot:before {
+  content: "\e91f";
+}
+.icon-minus:before {
+  content: "\e920";
+}
+.icon-news:before {
+  content: "\e921";
+}
+.icon-notfound:before {
+  content: "\e922";
+}
+.icon-phone:before {
+  content: "\e923";
+}
+.icon-plus:before {
+  content: "\e924";
+}
+.icon-portfolio:before {
+  content: "\e925";
+}
+.icon-profile:before {
+  content: "\e926";
+}
+.icon-quality:before {
+  content: "\e927";
+}
+.icon-question:before {
+  content: "\e928";
+}
+.icon-quote:before {
+  content: "\e929";
+}
+.icon-right-arrow:before {
+  content: "\e92a";
+}
+.icon-search:before {
+  content: "\e92b";
+}
+.icon-security:before {
+  content: "\e92c";
+}
+.icon-sort:before {
+  content: "\e92d";
+}
+.icon-star:before {
+  content: "\e92e";
+}
+.icon-star-fill:before {
+  content: "\e92f";
+}
+.icon-star-lefthalf:before {
+  content: "\e930";
+}
+.icon-stock:before {
+  content: "\e931";
+}
+.icon-store:before {
+  content: "\e932";
+}
+.icon-support:before {
+  content: "\e933";
+}
+.icon-tag:before {
+  content: "\e934";
+}
+.icon-time:before {
+  content: "\e935";
+}
+.icon-trash:before {
+  content: "\e936";
+}
+.icon-triangles:before {
+  content: "\e937";
+}
+.icon-triangles-down:before {
+  content: "\e938";
+}
+.icon-triangles-up:before {
+  content: "\e939";
+}
+.icon-truck:before {
+  content: "\e93a";
+}
+.icon-up-arrow:before {
+  content: "\e93b";
+}
+.icon-user:before {
+  content: "\e93c";
+}
+.icon-user-bell .path1:before {
+  content: "\e93d";
+  color: rgb(26, 26, 26);
+}
+.icon-user-bell .path2:before {
+  content: "\e93e";
+  margin-left: -1.107421875em;
+  color: rgb(255, 255, 255);
+}
+.icon-user-bell .path3:before {
+  content: "\e93f";
+  margin-left: -1.107421875em;
+  color: rgb(26, 26, 26);
+}
+.icon-user-fill:before {
+  content: "\e940";
+}
+.icon-wallet:before {
+  content: "\e941";
+}
+.icon-heck-input:before {
+  content: "\e942";
+}
+.icon-apple:before {
+  content: "\e943";
+}
+.icon-google:before {
+  content: "\e944";
+}
+.icon-addphoto:before {
+  content: "\e945";
+}
