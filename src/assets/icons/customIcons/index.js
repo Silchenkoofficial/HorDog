@@ -1,0 +1,10 @@
+export { default as ProfileIcon } from "./ProfileIcon";
+export { default as CatalogIcon1 } from "./catalog/CatalogIcon1";
+export { default as CatalogIcon2 } from "./catalog/CatalogIcon2";
+export { default as CatalogIcon3 } from "./catalog/CatalogIcon3";
+export { default as CatalogIcon4 } from "./catalog/CatalogIcon4";
+export { default as CatalogIcon5 } from "./catalog/CatalogIcon5";
+export { default as CatalogIcon6 } from "./catalog/CatalogIcon6";
+export { default as CatalogIcon7 } from "./catalog/CatalogIcon7";
+export { default as CowIcon } from "./catalog/CowIcon";
+export { default as PigIcon } from "./catalog/PigIcon";
